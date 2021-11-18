@@ -1,6 +1,6 @@
 
 # European Debt Crisis
-Europe Debt Crisis
+
 So as we remember, Europe had that whole situation where a lot of countries owed each other money and they were on the verge of bankruptcy. So that was all back starting from 2008, to 2011 and onwards.
 
 But this data set is as at 2011.
